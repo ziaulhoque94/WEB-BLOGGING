@@ -1,0 +1,22 @@
+
+body{
+    padding: 0px;
+    margin: 0px;
+    background: white;
+}
+
+
+header{
+    background: #008489;
+    height: 66px;
+}
+
+header *{
+color: white;
+}
+header .logo{
+    float: left;
+}
+header .menu-toggle{
+    display: none;
+}
